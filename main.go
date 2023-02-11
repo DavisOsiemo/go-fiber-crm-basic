@@ -35,11 +35,3 @@ func main(){
 	app.Listen(3000)
 	defer database.DBConn.Close()
 }
-
-{
-	"name": "Davis Osiemo",
-	"company": "Drinks Zetu",
-	"email": "davisossy@gmail.com"
-	"phone": "+254729135212"
-
-}
